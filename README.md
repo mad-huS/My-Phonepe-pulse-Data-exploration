@@ -31,6 +31,20 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
   
   ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/5c7b0eec-adf0-4f6d-9e3b-ffa1e164e04b)
 
+  creating table and inserting values....
+  
+  ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/fdf9f7e4-9f06-49e2-b57d-f686b2ee08ac)
+
+## 4. Again extract the data from mysql database and convert it into a data frame.
+  By establishing a same connection to the database, we can convert the table available in the mysql database into Dataframes.
+
+  ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/5758ee16-0fe3-4729-9871-ca455d21c151)
+
+## 5. Use plotly express to analyse the data:
+    Go through the data available, we can analyse and visulaize using plotly express.
+
+
+
   
 
   
