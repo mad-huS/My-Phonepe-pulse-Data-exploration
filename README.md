@@ -13,3 +13,8 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
   
   ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/d04f73ff-c074-4fbb-a3a7-408e39ae9ba8)
 
+  you can use the below syntax to clone the repository from github,
+  
+  from git.repo.base import Repo
+  Repo.clone_from("GitHub Clone URL","Path to get the cloded files")
+
