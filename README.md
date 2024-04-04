@@ -8,7 +8,7 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
 
 # Lets get into the project!
 
-#1. Importing the required libraries
+# 1. Importing the required libraries
   First, Analyse all the data whcih is cloned from the github repository. Next import all the requried libraries for the project.
   
   ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/d04f73ff-c074-4fbb-a3a7-408e39ae9ba8)
