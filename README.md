@@ -17,7 +17,7 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
   
   from git.repo.base import Repo
   
-  Repo.clone_from("GitHub Clone URL","Path to get the cloded files")
+  Repo.clone_from("GitHub Clone URL","Path to get the cloned files")
 
 ## 2. Data Extraction:
   Extract the available data from the json file and convert it to the DataFrame, so that it can be easily uploaded in a sql database. 
