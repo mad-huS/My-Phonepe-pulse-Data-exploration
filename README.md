@@ -25,6 +25,14 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
 
   ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/023c9c1b-8bac-4362-bfac-eb31af157ece)
 
+## 3. Uploading the data into MySql:
+  After extracting the data, establish a connection with the sql data base, here I have used MySql workbench.
+  Create tables with the column names as per the Data frame we have created. Then, Insert the values from dataframe into the specified columns.
+  
+  ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/5c7b0eec-adf0-4f6d-9e3b-ffa1e164e04b)
+
+  
+
   
 
 
