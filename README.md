@@ -8,7 +8,7 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
 
 # Lets get into the project!
 
-# 1. Importing the required libraries
+## 1. Importing the required libraries
   First, Analyse all the data whcih is cloned from the github repository. Next import all the requried libraries for the project.
   
   ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/d04f73ff-c074-4fbb-a3a7-408e39ae9ba8)
@@ -18,4 +18,13 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
   from git.repo.base import Repo
   
   Repo.clone_from("GitHub Clone URL","Path to get the cloded files")
+
+## 2. Data Extraction:
+  Extract the available data from the json file and convert it to the DataFrame, so that it can be easily uploaded in a sql database. 
+  For this, I have used a nested for loop to extract all the data available.
+
+  ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/023c9c1b-8bac-4362-bfac-eb31af157ece)
+
+  
+
 
