@@ -41,7 +41,10 @@ PhonePe Pulse is a first-of-its-kind product in India that showcases data about 
   ![image](https://github.com/mad-huS/My-Phonepe-pulse-Data-exploration/assets/156919023/5758ee16-0fe3-4729-9871-ca455d21c151)
 
 ## 5. Use plotly express to analyse the data:
-    Go through the data available, we can analyse and visulaize using plotly express.
+    Go through the data available, we can analyse and visualize it using plotly express.
+
+## 6. Work on Streamlit to run the application:
+  Install the streamlit package, Design the app as per your requriements.
 
 
 
